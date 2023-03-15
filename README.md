@@ -10,3 +10,5 @@
 5.	`minikube dashboard`
 
 6.	`kubectl proxy --address 0.0.0.0 --port=9000 --accept-hosts '.*'`
+
+#### https://minikube.sigs.k8s.io/docs/start/
